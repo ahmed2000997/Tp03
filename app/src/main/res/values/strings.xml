@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp03</string>
+    <string name="tema">Team A</string>
+    <string name="temb">Team B</string>
+    <string name="Vtema">0</string>
+    <string name="vtemb">0</string>
+</resources>
